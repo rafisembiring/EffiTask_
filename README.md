@@ -1,6 +1,6 @@
 # EffiTask ✨
 
-![EffiTask Showcase](https://i.imgur.com/gK1V5Fq.png) EffiTask adalah aplikasi manajemen proyek modern dengan antarmuka yang bersih dan minimalis, terinspirasi dari estetika *liquid glass* (glassmorphism) seperti pada iOS. Dibangun untuk membantu individu dan tim kecil mengelola tugas dan proyek dengan cara yang intuitif dan visual, tanpa kerumitan yang tidak perlu.
+EffiTask adalah aplikasi manajemen proyek modern dengan antarmuka yang bersih dan minimalis, terinspirasi dari estetika *liquid glass* (glassmorphism) seperti pada iOS. Dibangun untuk membantu individu dan tim kecil mengelola tugas dan proyek dengan cara yang intuitif dan visual, tanpa kerumitan yang tidak perlu.
 
 ---
 
